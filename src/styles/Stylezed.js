@@ -1,0 +1,3 @@
+export const ListHeader = "font-bold text-lg text-texto"
+export const HoverLineBotton = "after:absolute after:bottom-[-2px] after:left-0 after:h-1 after:w-full after:bg-botoes after:transition-all after:duration-500 after:ease-in-out after:transform after:scale-x-0 hover:after:scale-x-100"
+export const ActiveLineBotton = "after:absolute after:bottom-[-2px] after:left-0 after:h-1 after:w-full after:bg-botoes after:transition-all after:duration-500 after:ease-in-out after:transform after:scale-x-100"
